@@ -1,0 +1,8 @@
+{
+    "shop" : {
+        "currency": "BRL",
+        "language": "br",
+        "weightUnit": "kg",
+        "homeUrl": "http://localhost:3000" // This is the URL to your storefront, it is used for integration with third-party services
+    }
+}gig
